@@ -1,6 +1,6 @@
 IMG ?= simple-server:latest
 
-PHONY: all build build-static build-in-docker docker-build docker-run
+.PHONY: all build build-static build-in-docker docker-build
 
 all: build
 

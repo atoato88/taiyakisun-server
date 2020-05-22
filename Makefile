@@ -17,6 +17,7 @@ build-in-docker:
 		gcc:9 \
 		make build-static
 
+# this target is just a bonus
 docker-build:
 	docker build . -t ${IMG}
 

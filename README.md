@@ -14,18 +14,18 @@ Yes, by your hand.
 
 ## Build binary
 
-For local build
+You can select from 2 options.
+1. For local build
 ```
 make
 ```
-
-For build in docker container
+1. For build in docker container
 
 ```
 make build-in-docker
 ```
 
-Binary put root of this repository as `main`.
+Build binary will be placed at root of repository as `main`.
 
 # How to use
 

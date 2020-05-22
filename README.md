@@ -16,14 +16,13 @@ Yes, by your hand.
 
 You can select from 2 options.
 1. For local build
-```
-make
-```
+   ```
+   make
+   ```
 1. For build in docker container
-
-```
-make build-in-docker
-```
+   ```
+   make build-in-docker
+   ```
 
 Build binary will be placed at root of repository as `main`.
 
